@@ -1,0 +1,4 @@
+services:
+#    sergei_kapi.example:
+#        class: SergeiK\APIBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
